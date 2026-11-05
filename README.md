@@ -521,3 +521,11 @@ Thank you to everyone who sends code, reports, translations and ideas. [All cont
 </p>
 
 <p align="center"><a href="https://discord.gg/bzQavDfVV9"><img src="docs/assets/discord-community.svg" alt="Come say hello! Join us on Discord" height="64" /></a></p>
+
+---
+
+## Rehman AI Services edition
+
+Rehman AI Services edition, based on VoiceStudio by debpalash, AGPL-3.0. The upstream code, the AGPL-3.0 licence and its notices are kept as they are. Upstream: https://github.com/debpalash/VoiceStudio
+
+Model weights and voices keep their own licences; the Model Manager shows each one. Some voice-clone models are non-commercial only, so check the licence of any model before using it commercially.
